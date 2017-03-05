@@ -1,1 +1,6 @@
 # gittest
+
+## Skills
+
+Ruby
+
