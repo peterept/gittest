@@ -2,5 +2,5 @@
 
 ## Skills
 
-Ruby
+Ruby, GIT, Rails
 
